@@ -1,21 +1,22 @@
 
 
 # ==================== Emojis ====================
-# 🎉  :tada: 初めてのコミット（Initial Commit）
-# 🔖  :bookmark: バージョンタグ（Version Tag）
-# ✨  :sparkles: 新機能（New Feature）
-# 🐛  :bug: バグ修正（Bagfix）
-# ♻️  :recycle: リファクタリング(Refactoring)
-# 📚  :books: ドキュメント（Documentation）
-# 🎨  :art: デザインUI/UX(Accessibility)
-# 💄  :lipstick: スタイリング インデントの調整やフォーマットの変更など (style)
-# 🚀  :rocket: パフォーマンス（Performance）
-# 🔧  :wrench: ツール（Tooling）
-# 🚨  :rotating_light: テスト（Tests）
-# 💩  :hankey: 非推奨追加（Deprecation）
-# 🗑️  :wastebasket: 削除（Removal）
-# 🚧  :construction: WIP(Work In Progress)
-
+# 🎉  :tada: add big big feature
+# ✨  :sparkles: add feature
+# 🩹  :adhesive_bandage: add small feature
+# 🐛  :bug: fixed bug
+# ♻️  :recycle: refactoring
+# 🚀  :rocket: improvement performance
+# 📝  :memo: Add or update documentation, comments.
+# 🚨  :rotating_light: test or CI...
+# 💄  :lipstick: format, lint...
+# 🗑️  :wastebasket: remove feature
+# 🆙  :up: update version
+# 👮  :cop: security
+# 💩  :hankey: deprecated
+# 🚧  :construction: WIP
+# 🎨  :art: design UI
+# 🚶  :walking: move file
 
 # ==================== Format ====================
 # :emoji: Subject
